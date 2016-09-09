@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alphabet Spectrum</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_text_list">Натисніть на нижню праву кнопку, щоб вибрати <b>.txt</b> файл для аналізу або нижню кнопку зліва щоб вставити текст з буферу обміну</string>
+    <string name="table_title_alphabet">Алфавіт</string>
+    <string name="table_title_percent">Відсоток від загальної кількості</string>
+    <string name="text_preview_title"><b>Аналіз тексту:</b></string>
+    <string name="menu_about">Про програму</string>
+    <string name="about_author"><b>Автор: </b>Сідько Олександр</string>
+    <string name="about_version"><b>Версія: </b> 0.8 Beta</string>
+</resources>
