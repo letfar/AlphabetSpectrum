@@ -33,7 +33,6 @@ import static com.letfar.alphabetspectrum.utils.ExceptionUtils.toastException;
  */
 public class AboutActivity extends AppCompatActivity {
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
